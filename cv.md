@@ -34,12 +34,13 @@ Additional knowledge skills:
 * Adobe XD (designing and prototyping interfaces)
 * Knowledge of basic methodologies and software testing process
 
+
 ## Education
 
 Period | Organization | Specialty 
------- | ------------ | ---------
-2016-2020 | Belarusian-Russian University | Automated information processing systems
-2012-2016 | Mogilev State Polytechnic College | Information technology software
+------ | -------------| --------
+2016 - 2020 | Belarusian - Russian University | Automated information processing systems
+2012 - 2016 | Mogilev State Polytechnic College | Information technology software
 
 
 
