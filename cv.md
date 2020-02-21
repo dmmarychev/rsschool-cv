@@ -35,6 +35,7 @@ Additional knowledge skills:
 * Knowledge of basic methodologies and software testing process
 
 ## Education
+
 Period | Organization | Specialty 
 ------ | ------------ | ---------
 2016-2020 | Belarusian-Russian University | Automated information processing systems
@@ -43,6 +44,7 @@ Period | Organization | Specialty
 
 
 ## Code example
+
 ```Objective-C 
 - (instancetype)init
 {
